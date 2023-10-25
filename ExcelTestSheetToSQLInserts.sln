@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelTestSheetToSQLInserts", "ExcelTestSheetToSQLInserts.csproj", "{86BBCA99-25D7-4D71-ABB5-937D15992ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86BBCA99-25D7-4D71-ABB5-937D15992ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BBCA99-25D7-4D71-ABB5-937D15992ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BBCA99-25D7-4D71-ABB5-937D15992ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BBCA99-25D7-4D71-ABB5-937D15992ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E69DA70-AB76-448A-B6B8-5416877F5E72}
+	EndGlobalSection
+EndGlobal
